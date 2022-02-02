@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <p>
   <img alt="VueJS" src="https://img.shields.io/badge/Vue.js%20-%2343853D.svg?logo=vue.js&logoColor=white">
   <img alt="AngularJS" src="https://img.shields.io/badge/Angular.js%20-darkred.svg?logo=angular&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-orange.svg?logo=amazon&logoColor=white">
 </p>
 
 ## 📫 How to reach me
