@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 🌟 About me
 
-- 🇰🇷 Born in Korea
+- 🇰🇷 Born in South Korea
 - 🇨🇦 Raised in Canada
 - 🎓 Graduated from University of Toronto, Honours Bachelor of Science in Psychology
 - 💻 Graduated from Lighthouse Labs, Diploma in Web Development
