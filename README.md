@@ -12,7 +12,7 @@
 - 🇨🇦 Raised in Canada
 - 🎓 Graduated from University of Toronto, Honours Bachelor of Science in Psychology
 - 💻 Graduated from Lighthouse Labs, Diploma in Web Development
-- 👩🏻‍💻 Now starting my career as a Full Stack Developer
+- 👩🏻‍💻  Now starting my career as a Full Stack Developer
 
 ## 📚 My stack
 
