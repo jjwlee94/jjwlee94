@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23025E8C.svg?logo=postgresql&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-purple.svg?logo=bootstrap&logoColor=white">
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-magenta.svg?logo=sass&logoColor=white">
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material UI%20-blue.svg?logo=mui&logoColor=white">
 </p>
 
