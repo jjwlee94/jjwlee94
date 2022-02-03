@@ -12,7 +12,7 @@
 - 🇨🇦 Raised in Canada
 - 🎓 Graduated from University of Toronto, Honours Bachelor of Science in Psychology
 - 💻 Graduated from Lighthouse Labs, Diploma in Web Development
-- 👩🏻‍💻  Now starting my career as a Full Stack Developer
+- 👩🏻‍💻 Now starting my career as a Full Stack Developer
 
 ## 📚 My stack
 
@@ -49,6 +49,10 @@
   <img alt="Git" src="https://img.shields.io/badge/Git%20-black.svg?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white">
 </p>
+
+## ⌨️ I'm currently working on
+
+- [UNIQLO App (Redesigned)](https://www.github.com/jjwlee94/uniqlo-app)
 
 ## 🌱 I’m currently learning
 
