@@ -59,6 +59,7 @@
 <p>
   <img alt="VueJS" src="https://img.shields.io/badge/Vue.js%20-%2343853D.svg?logo=vue.js&logoColor=white">
   <img alt="AngularJS" src="https://img.shields.io/badge/Angular.js%20-firebrick.svg?logo=angular&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++%20-blue.svg?logo=c&logoColor="white">
 </p>
 
 ## 📫 How to reach me
