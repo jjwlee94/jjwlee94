@@ -60,6 +60,8 @@
   <img alt="VueJS" src="https://img.shields.io/badge/Vue.js%20-%2343853D.svg?logo=vue.js&logoColor=white">
   <img alt="AngularJS" src="https://img.shields.io/badge/Angular.js%20-firebrick.svg?logo=angular&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++%20-blue.svg?logo=c&logoColor="white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker%20-dodgerblue.svg?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white">
 </p>
 
 ## 📫 How to reach me
