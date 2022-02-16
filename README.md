@@ -52,6 +52,7 @@
 
 ## ⌨️ I'm currently working on
 
+- My portfolio website
 - [UNIQLO App (Redesigned)](https://www.github.com/jjwlee94/uniqlo-app)
 
 ## 🌱 I’m currently learning
