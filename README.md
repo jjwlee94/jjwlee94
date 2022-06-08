@@ -8,11 +8,9 @@
 
 ## 🌟 About me
 
-- 🇰🇷 Born in South Korea
-- 🇨🇦 Raised in Canada
 - 🎓 Graduated from University of Toronto, Honours Bachelor of Science in Psychology
 - 💻 Graduated from Lighthouse Labs, Diploma in Web Development
-- 👩🏻‍💻 Now starting my career as a Full Stack Developer
+- 👩🏻‍💻 Software Engineering Intern at Jobber
 
 ## 📚 My stack
 
@@ -46,23 +44,10 @@
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-green.svg?logo=mongodb&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23025E8C.svg?logo=postgresql&logoColor=white">
+   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-dodgerblue.svg?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white">
   <img alt="Git" src="https://img.shields.io/badge/Git%20-black.svg?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?logo=github&logoColor=white">
-</p>
-
-## ⌨️ I'm currently working on
-
-- My portfolio website
-- [UNIQLO App (Redesigned)](https://www.github.com/jjwlee94/uniqlo-app)
-
-## 🌱 I’m currently learning
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-cornflowerblue.svg?logo=python&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++%20-blue.svg?logo=c&logoColor="white">
-  <img alt="AngularJS" src="https://img.shields.io/badge/Angular.js%20-firebrick.svg?logo=angular&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker%20-dodgerblue.svg?logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-white.svg?logo=kubernetes&logoColor="white">
 </p>
 
 ## 📫 How to reach me
